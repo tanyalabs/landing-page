@@ -2,3 +2,12 @@ Create Home pages:
 -
 -
 -
+
+What will be displayed on the landing page?
+
+What problems will be solved?
+
+Who is the target user of this application?
+
+What is the target user's age, between age and age?
+
